@@ -1,0 +1,1 @@
+Data Analyst with expertise in Python, SQL, and Tableau. Skilled in data processing using pandas and numpy. Some experience with basic machine learning using scikit-learn, but primarily focused on BI dashboards and reporting. No experience with deep learning or cloud platforms.

@@ -1,0 +1,1 @@
+Backend Developer specializing in Python web frameworks such as Django and Flask. Designed and deployed multiple REST APIs. Experienced in database management with PostgreSQL and MySQL. Proficient in setting up CI/CD pipelines and containerizing applications with Docker. Strong knowledge of Git and Linux server administration.

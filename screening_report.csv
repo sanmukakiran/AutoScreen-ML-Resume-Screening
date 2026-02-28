@@ -1,0 +1,5 @@
+,Candidate,TF-IDF Sim Score,Skill Match %,Matched Skills,Missing Skills
+1,resume_2,28.68,81.82,"postgresql, python, linux, docker, flask, django, rest apis, ci/cd, git","react, angular"
+2,resume_3,5.07,9.09,python,"react, postgresql, linux, docker, flask, django, rest apis, angular, ci/cd, git"
+3,resume_1,4.51,9.09,python,"react, postgresql, linux, docker, flask, django, rest apis, angular, ci/cd, git"
+4,resume_4,3.89,0.0,None,"react, postgresql, python, linux, docker, flask, django, rest apis, angular, ci/cd, git"

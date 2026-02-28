@@ -1,0 +1,1 @@
+Data Scientist with 4 years of experience building machine learning models. Proficient in Python, pandas, numpy, and scikit-learn. Extensive experience with deep learning frameworks like TensorFlow and PyTorch. Solid background in SQL for data extraction and AWS for model deployment. Passionate about uncovering insights from data.
