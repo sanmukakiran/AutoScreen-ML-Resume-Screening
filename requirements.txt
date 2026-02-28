@@ -1,5 +1,7 @@
-spacy
+spacy==3.7.5
 nltk
 scikit-learn
 pandas
 numpy
+matplotlib
+seaborn

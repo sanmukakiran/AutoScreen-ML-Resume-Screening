@@ -4,6 +4,7 @@ import pandas as pd
 from src.preprocessing import preprocess_text
 from src.skill_extractor import extract_skills
 from src.matcher import calculate_similarity, skill_gap_analysis
+from src.visualizer import generate_screening_visuals
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', 1000)
@@ -71,6 +72,10 @@ def process_resumes(job_desc_path, resumes_dir):
     output_path = "screening_report.csv"
     df.to_csv(output_path)
     print(f"Saved full report to {output_path}")
+    
+    # Generate visual reports
+    role_name = os.path.basename(job_desc_path).replace('jd_', '').replace('.txt', '').replace('_', ' ').title()
+    generate_screening_visuals(df, role_name)
     
     return df
 
